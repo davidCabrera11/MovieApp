@@ -8,9 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-       var a = 3
-       val b = 43
-
 
     }
 }
